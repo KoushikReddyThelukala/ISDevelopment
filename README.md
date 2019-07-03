@@ -1,2 +1,2 @@
 # ISDevelopment
-This Repositery contains all the test scripts of Development Environment.
+This amp Repositery contains all the test scripts of Development Environment.
