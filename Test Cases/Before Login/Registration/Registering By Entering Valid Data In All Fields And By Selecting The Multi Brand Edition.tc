@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registering By Entering Valid Data In All Fields And By Selecting The Multi Brand Edition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3d5215a8-d38c-4202-aef3-92e0061dffa0</testCaseGuid>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>f32a5af4-62c2-4e17-9b50-4f3b303b2d6c</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>9149370d-2961-488e-819e-fb699f9d0003</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'D Bug Hunter\'s'</defaultValue>
+      <description></description>
+      <id>6431f7ba-db44-4be8-ac4c-a4f087afaeed</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'testinglsn15@gmail.com'</defaultValue>
+      <description></description>
+      <id>4da8e105-0fc6-4e30-a203-97b1b174b80e</id>
+      <masked>false</masked>
+      <name>EmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>4055a847-697a-4d1f-ab7c-6c5e1c6cad82</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>349d5e69-392d-4f20-b027-9ed06672fc3b</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>

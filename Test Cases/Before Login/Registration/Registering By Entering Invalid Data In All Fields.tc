@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registering By Entering Invalid Data In All Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cbf2d4c-85f6-4be9-a438-752926e293cc</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d49cac18-791c-4597-8a2d-95531dfd7e94</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e590fbe-c178-4401-b33b-01bb293d67f4</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>76188bf6-1113-499f-ae84-f09cb5d44895</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'testinglsn10gmail.com'</defaultValue>
+      <description></description>
+      <id>41b5bb78-d84e-4083-8d8e-b01874544090</id>
+      <masked>false</masked>
+      <name>EmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234@qwerty'</defaultValue>
+      <description></description>
+      <id>0b1fb861-3fd1-46b2-b325-f43f97f200d6</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'qwerty@1234'</defaultValue>
+      <description></description>
+      <id>1bf03dd6-ec12-4414-9807-e8887ce98801</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>

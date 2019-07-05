@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registering By Entering Invalid Email In Email Address Field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7f360f52-2f8d-41c3-8eb2-a73de3f892d7</testCaseGuid>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>b5cd3bf8-a18e-4981-9ab7-283c171b8ed7</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'User'</defaultValue>
+      <description></description>
+      <id>8b14a371-c8a3-477c-a465-bf18c0b3cfbb</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'D Bug Hunter\'s'</defaultValue>
+      <description></description>
+      <id>e3d508d6-7f4a-452c-9d8f-f3ce9427be70</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'testinglsn10gmail.com'</defaultValue>
+      <description></description>
+      <id>c1090e42-89e4-460a-a76b-03b187a91c9b</id>
+      <masked>false</masked>
+      <name>EmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>8268ee50-66b0-4081-abf1-71edcb68bd9f</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>8956dda6-ff00-4772-add6-dd0710ab781f</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>

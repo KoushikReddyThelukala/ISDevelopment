@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Registering By Not Entering Data In All Fields</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ae191ba-4d62-43ef-85c6-f14d0b6d8003</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c2301b34-74ea-4e89-a6b2-d4eefbda3b90</id>
+      <masked>false</masked>
+      <name>FirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0127fc0f-5925-4ca9-b2e7-661b70e41ad6</id>
+      <masked>false</masked>
+      <name>LastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>95f3bd2e-38fe-4c53-a2bd-0f73edc46e2e</id>
+      <masked>false</masked>
+      <name>CompanyName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73cc6ee8-c653-4b30-9011-b5e46a2c33a9</id>
+      <masked>false</masked>
+      <name>EmailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d807cf3e-79e5-4970-a70e-113a87dfef7a</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>07264c8c-64b9-425b-8a17-5af25601fae4</id>
+      <masked>false</masked>
+      <name>ConfirmPassword</name>
+   </variable>
+</TestCaseEntity>
